@@ -1,4 +1,4 @@
-package com.companypriceelectricitymodule.priceelectricitymodule.dto;
+package com.mycompanylowcarpower.thermoelectrically;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
