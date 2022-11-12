@@ -1,4 +1,4 @@
-package com.mycompanylowcarpower.thermoelectrically;
+package com.mycompanylowcarpower.thermoelectrically.dto;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
